@@ -12,7 +12,7 @@
     <itunes:name>Jim</itunes:name>
     <itunes:email>jimfiles@ymail.com</itunes:email>
   </itunes:owner>
-  <itunes:image href="https://s8.gifyu.com/images/wittr.jpg" />
+  <itunes:image href="https://i.ibb.co/wBq0y9J/wittr.jpg" />
   <itunes:category text="TV &amp; Film"/>
   
     <item>
@@ -21,7 +21,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Colin Firth on playing George VI in The King's Speech, and Danny Boyle on 127 Hours.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110107-07012011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110107-07012011.mp3" length="44715129" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:32:57</itunes:duration>
@@ -33,7 +33,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Peter Mullan on his 1970s-set drama Neds. Plus The Green Hornet reviewed.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110114-14012011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110114-14012011.mp3" length="43354544" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:30:07</itunes:duration>
@@ -45,7 +45,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>In an extra Kermode podcast, Mark talks to Richard Bacon about the Bafta nominations.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110118-BaftaNominations.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110118-BaftaNominations.mp3" length="8519610" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>0:17:33</itunes:duration>
@@ -57,7 +57,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Director Ron Howard tells Simon about on his new comedy The Dilemma: Mark isn't so keen.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110121-21012011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110121-21012011.mp3" length="42137553" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:27:35</itunes:duration>
@@ -69,7 +69,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Mark Kermode reacts to the Oscar nominations &amp; reveals who he thinks will win an award</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110125-OscarNominations.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110125-OscarNominations.mp3" length="25520174" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>0:52:58</itunes:duration>
@@ -81,7 +81,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Simon and Mark review the week's big films and talk to huge fan Jeremy Dylan.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110128-28012011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110128-28012011.mp3" length="42244069" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:27:48</itunes:duration>
@@ -93,7 +93,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Nicole Kidman and Crispin Glover join Mark Kermode and Simon Mayo.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110204-04022011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110204-04022011.mp3" length="43204339" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:29:48</itunes:duration>
@@ -105,7 +105,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Simon Pegg and Nick Frost on their new comedy, Paul. Plus Ethan Coen on western True Grit.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110211-11022011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110211-11022011.mp3" length="43529064" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:30:29</itunes:duration>
@@ -117,7 +117,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Oscar-nominated director Ian Barnes talks to Mark and Simon.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110218-18022011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110218-18022011.mp3" length="46008503" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:35:39</itunes:duration>
@@ -129,7 +129,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Richard Bacon sits in, with Boyd Hilton in the studio and Colin Paterson in LA.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110225-25022011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110225-25022011.mp3" length="45839160" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:35:18</itunes:duration>
@@ -141,7 +141,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Mark Kermode reviews the 83rd Academy Awards ceremony.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110228-OscarsReview.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110228-OscarsReview.mp3" length="4116466" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>0:08:22</itunes:duration>
@@ -153,7 +153,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Dame Helen Mirren on her role in The Tempest, and Marc Evans on new film Patagonia.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110304-04032011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110304-04032011.mp3" length="41841466" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:26:58</itunes:duration>
@@ -165,7 +165,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Guests Jamie Bell, Channing Tatum and Richard Ayoade, plus Japan earthquake latest.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110311-11032011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110311-11032011.mp3" length="30047101" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:02:24</itunes:duration>
@@ -177,7 +177,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Mark Kermode joins Simon to give his verdict on the week's movies.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110318-18032011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110318-18032011.mp3" length="21366781" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>0:44:18</itunes:duration>
@@ -189,7 +189,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Mark Kermode joins Simon to give his verdict on the week's movies.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110325-25032011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110325-25032011.mp3" length="39791316" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:22:42</itunes:duration>
@@ -201,7 +201,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Jim Loach, son of Ken, talks about his new film Oranges and Sunshine.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110401-01042011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110401-01042011.mp3" length="46975405" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:37:40</itunes:duration>
@@ -213,7 +213,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Twilight director Catherine Hardwicke talks about her new film Red Riding Hood.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110408-08042011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110408-08042011.mp3" length="30503658" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:03:21</itunes:duration>
@@ -225,7 +225,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>The current James Bond composer David Arnold talks about a tribute concert for John Barry.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110415-15042011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110415-15042011.mp3" length="42999902" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:29:23</itunes:duration>
@@ -237,7 +237,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Colin Paterson sits in with Boyd &amp; Floyd for reviews, the top 10 and guests.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110422-22042011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110422-22042011.mp3" length="37680255" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:18:18</itunes:duration>
@@ -249,7 +249,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Mark Kermode joins Simon Mayo to give his verdict on the week's movies.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110429-29042011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110429-29042011.mp3" length="28973540" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:00:09</itunes:duration>
@@ -261,7 +261,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>With guests Javier Mariscal and Joe Wright, and a review of Hanna and Water for Elephants.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110505-05052011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110505-05052011.mp3" length="40263189" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:23:40</itunes:duration>
@@ -273,7 +273,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Joe Cornish, director of Attack the Block, joins Mark and Simon in the studio.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110513-13052011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110513-13052011.mp3" length="45661238" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:34:55</itunes:duration>
@@ -285,7 +285,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Asif Kapadia talks about Senna, and the latest Pirates of the Carribean film is reviewed.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110520-20052011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110520-20052011.mp3" length="41749623" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:26:46</itunes:duration>
@@ -297,7 +297,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>A bonus podcast ahead of our programme on 10 June with the BBC Philharmonic Orchestra.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110525-BonusFilmMusicRoundtable.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110525-BonusFilmMusicRoundtable.mp3" length="29601811" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:01:28</itunes:duration>
@@ -309,7 +309,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Live from The Phoenix, Mark and Simon celebrate 10 years on 5 live with guest Noel Clarke.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110527-LiveFromThePhoenixCinema.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110527-LiveFromThePhoenixCinema.mp3" length="43070021" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:29:31</itunes:duration>
@@ -321,7 +321,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Hugh Bonneville takes a look back at ten years of Kermode and Mayo's movie reviews.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110530-10YearsOfKermodeAndMayo.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110530-10YearsOfKermodeAndMayo.mp3" length="24252469" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>0:50:19</itunes:duration>
@@ -333,7 +333,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Mark Kermode and Simon Mayo tell Richard Bacon how their partnership began.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110531-HowTheKermodeAndMayoPartnershipBegan.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110531-HowTheKermodeAndMayoPartnershipBegan.mp3" length="17838847" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>0:36:58</itunes:duration>
@@ -345,7 +345,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Stephen Fry helps Mark and Simon celebrate ten years of movie reviews.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110603-The10thAnniversaryShow.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110603-The10thAnniversaryShow.mp3" length="28385743" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>0:58:56</itunes:duration>
@@ -357,7 +357,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Live from Salford, the BBC Philharmonic play famous scores. Plus the latest movie reviews.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110610-GreatFilmScoresLive.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110610-GreatFilmScoresLive.mp3" length="38893056" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:20:49</itunes:duration>
@@ -369,7 +369,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Cameron Diaz and Kevin MacDonald join Paterson, Boyd and Floyd, in for Mark and Simon.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110617-17062011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110617-17062011.mp3" length="28471722" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>0:59:07</itunes:duration>
@@ -381,7 +381,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Mark Kermode joins Simon Mayo to review the week's movies.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110624-24062011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110624-24062011.mp3" length="24189677" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>0:50:11</itunes:duration>
@@ -393,7 +393,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Tom Hanks is Mark Kermode and Simon Mayo's special guest as they review the week's movies.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110701-01072011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110701-01072011.mp3" length="27222369" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>0:56:30</itunes:duration>
@@ -405,7 +405,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Ralph Fiennes on playing Voldemort in the final Harry Potter movie.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110708-08072011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110708-08072011.mp3" length="34550099" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:11:46</itunes:duration>
@@ -417,7 +417,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>With Jennifer Aniston and Kevin Spacey. Plus Mark reviews the final Harry Potter film.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110722-22072011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110722-22072011.mp3" length="42371011" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:28:04</itunes:duration>
@@ -429,7 +429,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Bradley Cooper talks about thriller Limitless and The Hangover movies.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110729-29072011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110729-29072011.mp3" length="38312592" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:19:37</itunes:duration>
@@ -441,7 +441,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Devil's Double star Dominic Cooper joins Paterson, Boyd and Floyd, in for Mark and Simon.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110805-WithColinPaterson.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110805-WithColinPaterson.mp3" length="38302714" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:19:35</itunes:duration>
@@ -453,7 +453,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Harrison Ford, Daniel Craig and Andy Nyman talk to Colin Paterson, with Boyd and Floyd.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110812-12082011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110812-12082011.mp3" length="43629714" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:30:41</itunes:duration>
@@ -465,7 +465,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Colin talks to the star of Conan, and director of The Guard stops by.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110819-JohnMichaelMcdonagh.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110819-JohnMichaelMcdonagh.mp3" length="41993914" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:27:17</itunes:duration>
@@ -477,7 +477,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Colin Paterson talks to the stars of One Day plus Justin Timberlake and Mila Kunis.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110826-26082011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110826-26082011.mp3" length="44446460" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:32:23</itunes:duration>
@@ -489,7 +489,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Mark and Simon are back and joined by Jim Broadbent and Simon Armitage.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110902-02092011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110902-02092011.mp3" length="46340215" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:36:20</itunes:duration>
@@ -501,7 +501,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Mark Kermode &amp; Simon Mayo with Michael Fassbender, the Top Ten and the week's new releases</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110909-09092011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110909-09092011.mp3" length="44326161" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:32:08</itunes:duration>
@@ -513,7 +513,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Gary Oldman talks about his George Smiley role in Tinker, Tailor, Soldier, Spy.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110916-16092011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110916-16092011.mp3" length="41445924" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:26:08</itunes:duration>
@@ -525,7 +525,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Simon Mayo and Mark Kermode with Tom Wilkinson, and the pick of the week's new releases.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110923-23092011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110923-23092011.mp3" length="46655278" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:37:00</itunes:duration>
@@ -537,7 +537,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Morgan Spurlock explores product placement in his new film The Greatest Movie Ever Sold.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110930-30092011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110930-30092011.mp3" length="47284187" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:38:18</itunes:duration>
@@ -549,7 +549,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Paddy Considine and Olivia Colman; plus film reviews.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20111007-PaddyConsidine.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20111007-PaddyConsidine.mp3" length="47072915" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:37:52</itunes:duration>
@@ -561,7 +561,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>With Cillian Murphy in the studio. Plus Real Steel and Footloose reviewed.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20111014-CillianMurphy.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20111014-CillianMurphy.mp3" length="44217581" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:31:55</itunes:duration>
@@ -573,7 +573,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>With directors Steven Soderbergh and Lynne Ramsay.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20111021-21102011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20111021-21102011.mp3" length="43835537" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:31:07</itunes:duration>
@@ -585,7 +585,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Jamie Bell and Philip Seymour Hoffman join Colin, Boyd &amp; Floyd, in for Simon and Mark.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20111028-JamieBellAndPhilipSeymourHoffman.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20111028-JamieBellAndPhilipSeymourHoffman.mp3" length="40709388" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:24:36</itunes:duration>
@@ -597,7 +597,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Featuring Bruce Robinson, writer and director of cult classic Withnail and I.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20111104-BruceRobinson.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20111104-BruceRobinson.mp3" length="39012943" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:21:04</itunes:duration>
@@ -609,7 +609,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>This week's film reviews, plus director John Landis on his new book Monsters in the Movies</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20111111-JohnLandis.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20111111-JohnLandis.mp3" length="43548589" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:30:31</itunes:duration>
@@ -621,7 +621,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>The week's film reviews, plus Kenneth Branagh on his new film, My Week With Marilyn.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20111118-KennethBranagh.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20111118-KennethBranagh.mp3" length="43845934" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:31:08</itunes:duration>
@@ -633,7 +633,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Mark Kermode joins Simon Mayo to review the week's movies.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20111125-25112011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20111125-25112011.mp3" length="44493127" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:32:29</itunes:duration>
@@ -645,7 +645,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Martin Scorsese talks about his new film Hugo. Plus the week's reviews and UK top 10.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20111202-02122011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20111202-02122011.mp3" length="46162913" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:35:58</itunes:duration>
@@ -657,7 +657,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Mark Kermode joins Simon Mayo to review the week's movies.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20111216-16122011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20111216-16122011.mp3" length="45650320" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:34:54</itunes:duration>
@@ -669,7 +669,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Mark Kermode joins Simon Mayo to review the week's movies.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20111223-ChristmasSpecial.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20111223-ChristmasSpecial.mp3" length="48697681" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:41:15</itunes:duration>
@@ -681,7 +681,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary>Festive film fun live from the Prince Charles Cinema in London's West End.</itunes:summary>
       <itunes:image href="" />
-      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20111230-2011.mp3" length="" type="audio/mpeg"/>
+      <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20111230-2011.mp3" length="48484134" type="audio/mpeg"/>
       <guid></guid>
       <pubDate>Mon Jun 06 2022 15:04:41 GMT+1000 (Australian Eastern Standard Time)</pubDate>
       <itunes:duration>1:40:48</itunes:duration>
