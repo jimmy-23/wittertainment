@@ -12,7 +12,7 @@
     <itunes:name>Jim</itunes:name>
     <itunes:email>jimfiles@ymail.com</itunes:email>
   </itunes:owner>
-  <itunes:image href="https://i.postimg.cc/HnKMPgP4/wittr.jpg" />
+  <itunes:image href="https://i.ibb.co/wBq0y9J/wittr.jpg" />
   <itunes:category text="TV &amp; Film"/>
   
     <item>
@@ -67,7 +67,7 @@
       <title>KermodeAndMayosFilmReview-20110125-OscarNominations</title>
       <itunes:author></itunes:author>
       <itunes:subtitle></itunes:subtitle>
-      <itunes:summary>Mark Kermode reacts to the Oscar nominations & reveals who he thinks will win an award</itunes:summary>
+      <itunes:summary>Mark Kermode reacts to the Oscar nominations &amp; reveals who he thinks will win an award</itunes:summary>
       <itunes:image href="" />
       <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110125-OscarNominations.mp3" length="" type="audio/mpeg"/>
       <guid></guid>
@@ -235,7 +235,7 @@
       <title>KermodeAndMayosFilmReview-20110422-22042011</title>
       <itunes:author></itunes:author>
       <itunes:subtitle></itunes:subtitle>
-      <itunes:summary>Colin Paterson sits in with Boyd & Floyd for reviews, the top 10 and guests.</itunes:summary>
+      <itunes:summary>Colin Paterson sits in with Boyd &amp; Floyd for reviews, the top 10 and guests.</itunes:summary>
       <itunes:image href="" />
       <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110422-22042011.mp3" length="" type="audio/mpeg"/>
       <guid></guid>
@@ -499,7 +499,7 @@
       <title>KermodeAndMayosFilmReview-20110909-09092011</title>
       <itunes:author></itunes:author>
       <itunes:subtitle></itunes:subtitle>
-      <itunes:summary>Mark Kermode & Simon Mayo with Michael Fassbender, the Top Ten and the week's new releases</itunes:summary>
+      <itunes:summary>Mark Kermode &amp; Simon Mayo with Michael Fassbender, the Top Ten and the week's new releases</itunes:summary>
       <itunes:image href="" />
       <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20110909-09092011.mp3" length="" type="audio/mpeg"/>
       <guid></guid>
@@ -583,7 +583,7 @@
       <title>KermodeAndMayosFilmReview-20111028-JamieBellAndPhilipSeymourHoffman</title>
       <itunes:author></itunes:author>
       <itunes:subtitle></itunes:subtitle>
-      <itunes:summary>Jamie Bell and Philip Seymour Hoffman join Colin, Boyd & Floyd, in for Simon and Mark.</itunes:summary>
+      <itunes:summary>Jamie Bell and Philip Seymour Hoffman join Colin, Boyd &amp; Floyd, in for Simon and Mark.</itunes:summary>
       <itunes:image href="" />
       <enclosure url="https://wittertainment.s3.amazonaws.com/KermodeAndMayosFilmReview-20111028-JamieBellAndPhilipSeymourHoffman.mp3" length="" type="audio/mpeg"/>
       <guid></guid>
